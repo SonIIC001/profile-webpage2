@@ -1,0 +1,29 @@
+html{
+  background: url("../images/background4.jpg") no-repeat center fixed;
+  background-size: cover;
+}
+h1{
+  color: black;
+  font-family: 'Sacramento', cursive;
+}
+p{
+  color: black;
+  font-family: 'Merriweather', serif;
+}
+.m-body{
+
+  position: relative;
+  text-align: center;
+}
+.first-c{
+  width: 30%;
+  position: relative;
+  top: 10%;
+  left:30%;
+}
+.mahmoud-pic{
+  width: 35%
+}
+.icons{
+  width: 5%;
+}
